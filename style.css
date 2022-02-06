@@ -1,0 +1,28 @@
+body {
+    background-color: #f7daf6;
+}
+#score {
+    font-size: 25px;
+    float: left;
+    margin-left: 100px;
+}
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 100px;
+}
+#goalSketch {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+#sketchID, #confidence {
+    font-size: 20px;
+}
+#show_sketch {
+    float: right;
+    margin-right: 60px;
+}
+h1 {
+    margin-left: 150px;
+}
